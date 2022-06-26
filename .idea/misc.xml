@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.128419452887538" />
+        <entry key="app/src/main/res/drawable/custom_counter_bg.xml" value="0.1245" />
+        <entry key="app/src/main/res/drawable/custom_event_progress.xml" value="0.1245" />
+        <entry key="app/src/main/res/drawable/ic_add.xml" value="0.1245" />
+        <entry key="app/src/main/res/drawable/ic_completed.xml" value="0.1245" />
+        <entry key="app/src/main/res/drawable/ic_delete_sweep.xml" value="0.1175" />
+        <entry key="app/src/main/res/drawable/ic_delete_sweep_white.xml" value="0.1175" />
+        <entry key="app/src/main/res/drawable/ic_export.xml" value="0.1175" />
+        <entry key="app/src/main/res/layout/activity_completed_events.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_event_detail.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
